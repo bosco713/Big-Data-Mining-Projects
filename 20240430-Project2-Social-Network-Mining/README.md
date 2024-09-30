@@ -56,7 +56,8 @@ We introduced a subsampling method to refine our embeddings. By iterating over r
     | Hyperparameters   | Values    |
     | ----------------- | --------- |
     | num_skips         | 5         |
-    This enhancement resulted in a validation AUC of 0.8550, surpassing the standard node2vec model.
+  
+  This enhancement resulted in a validation AUC of 0.8550, surpassing the standard node2vec model.
 
 ## Evaluation
 The following hyperparameters were utilized for model testing:
