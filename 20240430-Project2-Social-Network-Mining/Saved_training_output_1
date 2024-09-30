@@ -1,0 +1,434 @@
+node dim: 20,	num_walks: 8,	walk_length: 4, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 19.2028
+valid auc: 0.6661
+node dim: 20,	num_walks: 8,	walk_length: 5, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 23.3543
+valid auc: 0.6733
+node dim: 20,	num_walks: 8,	walk_length: 6, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 27.4494
+valid auc: 0.6765
+node dim: 20,	num_walks: 9,	walk_length: 4, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 21.4372
+valid auc: 0.6728
+node dim: 20,	num_walks: 9,	walk_length: 5, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 26.4848
+valid auc: 0.6750
+node dim: 20,	num_walks: 9,	walk_length: 6, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 30.7152
+valid auc: 0.6781
+node dim: 20,	num_walks: 10,	walk_length: 4, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 23.6575
+valid auc: 0.6756
+node dim: 20,	num_walks: 10,	walk_length: 5, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 29.5563
+valid auc: 0.6831
+node dim: 20,	num_walks: 10,	walk_length: 6, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 33.0772
+valid auc: 0.6792
+node dim: 20,	num_walks: 11,	walk_length: 4, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 26.1276
+valid auc: 0.6784
+node dim: 20,	num_walks: 11,	walk_length: 5, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 30.9890
+valid auc: 0.6743
+node dim: 20,	num_walks: 11,	walk_length: 6, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 37.2261
+valid auc: 0.6700
+node dim: 20,	num_walks: 8,	walk_length: 4, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 18.3788
+valid auc: 0.6654
+node dim: 20,	num_walks: 8,	walk_length: 5, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 23.8891
+valid auc: 0.6811
+node dim: 20,	num_walks: 8,	walk_length: 6, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 27.3690
+valid auc: 0.6784
+node dim: 20,	num_walks: 9,	walk_length: 4, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 20.7444
+valid auc: 0.6707
+node dim: 20,	num_walks: 9,	walk_length: 5, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 26.3023
+valid auc: 0.6782
+node dim: 20,	num_walks: 9,	walk_length: 6, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 30.4994
+valid auc: 0.6763
+node dim: 20,	num_walks: 10,	walk_length: 4, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 23.4081
+valid auc: 0.6740
+node dim: 20,	num_walks: 10,	walk_length: 5, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 29.1623
+valid auc: 0.6792
+node dim: 20,	num_walks: 10,	walk_length: 6, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 33.2871
+valid auc: 0.6718
+node dim: 20,	num_walks: 11,	walk_length: 4, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 25.7428
+valid auc: 0.6778
+node dim: 20,	num_walks: 11,	walk_length: 5, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 31.5189
+valid auc: 0.6733
+node dim: 20,	num_walks: 11,	walk_length: 6, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 36.6183
+valid auc: 0.6762
+node dim: 20,	num_walks: 8,	walk_length: 4, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 19.0034
+valid auc: 0.6703
+node dim: 20,	num_walks: 8,	walk_length: 5, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 23.7915
+valid auc: 0.6793
+node dim: 20,	num_walks: 8,	walk_length: 6, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 26.8808
+valid auc: 0.6769
+node dim: 20,	num_walks: 9,	walk_length: 4, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 21.4414
+valid auc: 0.6720
+node dim: 20,	num_walks: 9,	walk_length: 5, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 26.8125
+valid auc: 0.6784
+node dim: 20,	num_walks: 9,	walk_length: 6, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 30.5901
+valid auc: 0.6815
+node dim: 20,	num_walks: 10,	walk_length: 4, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 23.4249
+valid auc: 0.6721
+node dim: 20,	num_walks: 10,	walk_length: 5, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 29.0099
+valid auc: 0.6801
+node dim: 20,	num_walks: 10,	walk_length: 6, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 33.3462
+valid auc: 0.6786
+node dim: 20,	num_walks: 11,	walk_length: 4, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 26.0112
+valid auc: 0.6757
+node dim: 20,	num_walks: 11,	walk_length: 5, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 31.8755
+valid auc: 0.6759
+node dim: 20,	num_walks: 11,	walk_length: 6, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 36.4737
+valid auc: 0.6756
+node dim: 20,	num_walks: 8,	walk_length: 4, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 18.7264
+valid auc: 0.6694
+node dim: 20,	num_walks: 8,	walk_length: 5, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 24.2618
+valid auc: 0.6798
+node dim: 20,	num_walks: 8,	walk_length: 6, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 27.5294
+valid auc: 0.6775
+node dim: 20,	num_walks: 9,	walk_length: 4, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 21.6426
+valid auc: 0.6732
+node dim: 20,	num_walks: 9,	walk_length: 5, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 25.8983
+valid auc: 0.6775
+node dim: 20,	num_walks: 9,	walk_length: 6, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 31.8031
+valid auc: 0.6766
+node dim: 20,	num_walks: 10,	walk_length: 4, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 24.4900
+valid auc: 0.6725
+node dim: 20,	num_walks: 10,	walk_length: 5, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 30.1758
+valid auc: 0.6768
+node dim: 20,	num_walks: 10,	walk_length: 6, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 34.4949
+valid auc: 0.6736
+node dim: 20,	num_walks: 11,	walk_length: 4, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 26.9658
+valid auc: 0.6792
+node dim: 20,	num_walks: 11,	walk_length: 5, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 33.3267
+valid auc: 0.6761
+node dim: 20,	num_walks: 11,	walk_length: 6, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 37.9766
+valid auc: 0.6759
+node dim: 20,	num_walks: 8,	walk_length: 4, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 19.3699
+valid auc: 0.6689
+node dim: 20,	num_walks: 8,	walk_length: 5, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 24.9130
+valid auc: 0.6763
+node dim: 20,	num_walks: 8,	walk_length: 6, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 28.4892
+valid auc: 0.6765
+node dim: 20,	num_walks: 9,	walk_length: 4, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 21.6264
+valid auc: 0.6767
+node dim: 20,	num_walks: 9,	walk_length: 5, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 27.4886
+valid auc: 0.6771
+node dim: 20,	num_walks: 9,	walk_length: 6, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 31.7793
+valid auc: 0.6784
+node dim: 20,	num_walks: 10,	walk_length: 4, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 24.4334
+valid auc: 0.6710
+node dim: 20,	num_walks: 10,	walk_length: 5, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 30.1308
+valid auc: 0.6836
+node dim: 20,	num_walks: 10,	walk_length: 6, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 34.7626
+valid auc: 0.6730
+node dim: 20,	num_walks: 11,	walk_length: 4, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 26.8846
+valid auc: 0.6772
+node dim: 20,	num_walks: 11,	walk_length: 5, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 32.8959
+valid auc: 0.6785
+node dim: 20,	num_walks: 11,	walk_length: 6, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 38.0828
+valid auc: 0.6758
+node dim: 20,	num_walks: 8,	walk_length: 4, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 19.7493
+valid auc: 0.6697
+node dim: 20,	num_walks: 8,	walk_length: 5, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 25.0262
+valid auc: 0.6737
+node dim: 20,	num_walks: 8,	walk_length: 6, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 128.0069
+valid auc: 0.6764
+node dim: 20,	num_walks: 9,	walk_length: 4, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 629.7112
+valid auc: 0.6738
+node dim: 20,	num_walks: 9,	walk_length: 5, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 41.8031
+valid auc: 0.6772
+node dim: 20,	num_walks: 9,	walk_length: 6, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 1307.5286
+valid auc: 0.6808
+node dim: 20,	num_walks: 10,	walk_length: 4, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 23.8754
+valid auc: 0.6752
+node dim: 20,	num_walks: 10,	walk_length: 5, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 29.3442
+valid auc: 0.6844
+node dim: 20,	num_walks: 10,	walk_length: 6, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 34.3470
+valid auc: 0.6754
+node dim: 20,	num_walks: 11,	walk_length: 4, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 26.0725
+valid auc: 0.6763
+node dim: 20,	num_walks: 11,	walk_length: 5, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 37.8346
+valid auc: 0.6766
+node dim: 20,	num_walks: 11,	walk_length: 6, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 38.2230
+valid auc: 0.6736
+node dim: 20,	num_walks: 8,	walk_length: 4, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 19.9990
+valid auc: 0.6706
+node dim: 20,	num_walks: 8,	walk_length: 5, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 24.6656
+valid auc: 0.6744
+node dim: 20,	num_walks: 8,	walk_length: 6, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 28.3284
+valid auc: 0.6750
+node dim: 20,	num_walks: 9,	walk_length: 4, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 21.8941
+valid auc: 0.6740
+node dim: 20,	num_walks: 9,	walk_length: 5, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 27.1332
+valid auc: 0.6776
+node dim: 20,	num_walks: 9,	walk_length: 6, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 31.3542
+valid auc: 0.6780
+node dim: 20,	num_walks: 10,	walk_length: 4, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 24.1251
+valid auc: 0.6720
+node dim: 20,	num_walks: 10,	walk_length: 5, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 29.4018
+valid auc: 0.6820
+node dim: 20,	num_walks: 10,	walk_length: 6, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 35.7197
+valid auc: 0.6744
+node dim: 20,	num_walks: 11,	walk_length: 4, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 27.5161
+valid auc: 0.6765
+node dim: 20,	num_walks: 11,	walk_length: 5, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 36.4993
+valid auc: 0.6754
+node dim: 20,	num_walks: 11,	walk_length: 6, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 38.1140
+valid auc: 0.6771
+node dim: 20,	num_walks: 8,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 21.7787
+valid auc: 0.6672
+node dim: 20,	num_walks: 8,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 25.5909
+valid auc: 0.6757
+node dim: 20,	num_walks: 8,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 30.7906
+valid auc: 0.6753
+node dim: 20,	num_walks: 9,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 23.9706
+valid auc: 0.6722
+node dim: 20,	num_walks: 9,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 35.2811
+valid auc: 0.6754
+node dim: 20,	num_walks: 9,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 41.6968
+valid auc: 0.6798
+node dim: 20,	num_walks: 10,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 32.3583
+valid auc: 0.6713
+node dim: 20,	num_walks: 10,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 39.5387
+valid auc: 0.6791
+node dim: 20,	num_walks: 10,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 46.0478
+valid auc: 0.6746
+node dim: 20,	num_walks: 11,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 36.2221
+valid auc: 0.6760
+node dim: 20,	num_walks: 11,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 42.5201
+valid auc: 0.6761
+node dim: 20,	num_walks: 11,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 49.8394
+valid auc: 0.6744
+node dim: 20,	num_walks: 8,	walk_length: 4, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 26.4539
+valid auc: 0.6672
+node dim: 20,	num_walks: 8,	walk_length: 5, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 33.0473
+valid auc: 0.6813
+node dim: 20,	num_walks: 8,	walk_length: 6, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 36.8594
+valid auc: 0.6754
+node dim: 20,	num_walks: 9,	walk_length: 4, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 29.4286
+valid auc: 0.6724
+node dim: 20,	num_walks: 9,	walk_length: 5, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 35.4995
+valid auc: 0.6767
+node dim: 20,	num_walks: 9,	walk_length: 6, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 41.0779
+valid auc: 0.6808
+node dim: 20,	num_walks: 10,	walk_length: 4, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 32.6123
+valid auc: 0.6715
+node dim: 20,	num_walks: 10,	walk_length: 5, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 38.8682
+valid auc: 0.6817
+node dim: 20,	num_walks: 10,	walk_length: 6, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 46.0739
+valid auc: 0.6784
+node dim: 20,	num_walks: 11,	walk_length: 4, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 36.7041
+valid auc: 0.6768
+node dim: 20,	num_walks: 11,	walk_length: 5, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 44.3393
+valid auc: 0.6733
+node dim: 20,	num_walks: 11,	walk_length: 6, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 44.6788
+valid auc: 0.6754
+node dim: 21,	num_walks: 8,	walk_length: 4, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 22.7358
+valid auc: 0.6763
+node dim: 21,	num_walks: 8,	walk_length: 5, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 29.1538
+valid auc: 0.6904
+node dim: 21,	num_walks: 8,	walk_length: 6, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 30.4282
+valid auc: 0.6773
+node dim: 21,	num_walks: 9,	walk_length: 4, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 23.4161
+valid auc: 0.6771
+node dim: 21,	num_walks: 9,	walk_length: 5, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 28.9927
+valid auc: 0.6868
+node dim: 21,	num_walks: 9,	walk_length: 6, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 34.2251
+valid auc: 0.6826
+node dim: 21,	num_walks: 10,	walk_length: 4, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 26.0918
+valid auc: 0.6803
+node dim: 21,	num_walks: 10,	walk_length: 5, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 37.9155
+valid auc: 0.6832
+node dim: 21,	num_walks: 10,	walk_length: 6, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 44.9716
+valid auc: 0.6826
+node dim: 21,	num_walks: 11,	walk_length: 4, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 32.8223
+valid auc: 0.6875
+node dim: 21,	num_walks: 11,	walk_length: 5, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 41.7102
+valid auc: 0.6838
+node dim: 21,	num_walks: 11,	walk_length: 6, 	p: 0.50, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 45.6961
+valid auc: 0.6824
+node dim: 21,	num_walks: 8,	walk_length: 4, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 20.0067
+valid auc: 0.6767
+node dim: 21,	num_walks: 8,	walk_length: 5, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 24.3094
+valid auc: 0.6886
+node dim: 21,	num_walks: 8,	walk_length: 6, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 28.8359
+valid auc: 0.6833
+node dim: 21,	num_walks: 9,	walk_length: 4, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 26.6475
+valid auc: 0.6795
+node dim: 21,	num_walks: 9,	walk_length: 5, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 28.7168
+valid auc: 0.6843
+node dim: 21,	num_walks: 9,	walk_length: 6, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 31.6675
+valid auc: 0.6816
+node dim: 21,	num_walks: 10,	walk_length: 4, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 24.1533
+valid auc: 0.6815
+node dim: 21,	num_walks: 10,	walk_length: 5, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 29.7893
+valid auc: 0.6800
+node dim: 21,	num_walks: 10,	walk_length: 6, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 34.9072
+valid auc: 0.6833
+node dim: 21,	num_walks: 11,	walk_length: 4, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 26.6213
+valid auc: 0.6858
+node dim: 21,	num_walks: 11,	walk_length: 5, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 32.9303
+valid auc: 0.6824
+node dim: 21,	num_walks: 11,	walk_length: 6, 	p: 0.50, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 37.2837
+valid auc: 0.6797
+node dim: 21,	num_walks: 8,	walk_length: 4, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 19.6288
+valid auc: 0.6732
+node dim: 21,	num_walks: 8,	walk_length: 5, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 25.6339
+valid auc: 0.6867
+node dim: 21,	num_walks: 8,	walk_length: 6, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 28.5731
+valid auc: 0.6810
+node dim: 21,	num_walks: 9,	walk_length: 4, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 22.2993
+valid auc: 0.6795
+node dim: 21,	num_walks: 9,	walk_length: 5, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 27.0291
+valid auc: 0.6838
+node dim: 21,	num_walks: 9,	walk_length: 6, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 32.6657
+valid auc: 0.6799
+node dim: 21,	num_walks: 10,	walk_length: 4, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 24.7896
+valid auc: 0.6822
+node dim: 21,	num_walks: 10,	walk_length: 5, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 31.9439
+valid auc: 0.6821
+node dim: 21,	num_walks: 10,	walk_length: 6, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 44.8236
+valid auc: 0.6824
+node dim: 21,	num_walks: 11,	walk_length: 4, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 38.3380
+valid auc: 0.6826
+node dim: 21,	num_walks: 11,	walk_length: 5, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 42.1571
+valid auc: 0.6856
+node dim: 21,	num_walks: 11,	walk_length: 6, 	p: 0.50, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 39.1128
+valid auc: 0.6844
+node dim: 21,	num_walks: 8,	walk_length: 4, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 19.3763
+valid auc: 0.6730
+node dim: 21,	num_walks: 8,	walk_length: 5, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 24.7803
+valid auc: 0.6872
+node dim: 21,	num_walks: 8,	walk_length: 6, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 28.6227
+valid auc: 0.6758
+node dim: 21,	num_walks: 9,	walk_length: 4, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 22.2610
+valid auc: 0.6802
+node dim: 21,	num_walks: 9,	walk_length: 5, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 28.0134
+valid auc: 0.6850
+node dim: 21,	num_walks: 9,	walk_length: 6, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 33.2949
+valid auc: 0.6862
+node dim: 21,	num_walks: 10,	walk_length: 4, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 24.9290
+valid auc: 0.6812
+node dim: 21,	num_walks: 10,	walk_length: 5, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 32.4389
+valid auc: 0.6808
+node dim: 21,	num_walks: 10,	walk_length: 6, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 37.2716
+valid auc: 0.6803
+node dim: 21,	num_walks: 11,	walk_length: 4, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 28.5058
+valid auc: 0.6834
+node dim: 21,	num_walks: 11,	walk_length: 5, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 33.9482
+valid auc: 0.6848
+node dim: 21,	num_walks: 11,	walk_length: 6, 	p: 0.70, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 40.3419
+valid auc: 0.6846
+node dim: 21,	num_walks: 8,	walk_length: 4, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 21.2492
+valid auc: 0.6737
+node dim: 21,	num_walks: 8,	walk_length: 5, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 25.3344
+valid auc: 0.6884
+node dim: 21,	num_walks: 8,	walk_length: 6, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 30.6493
+valid auc: 0.6793
+node dim: 21,	num_walks: 9,	walk_length: 4, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 22.1376
+valid auc: 0.6790
+node dim: 21,	num_walks: 9,	walk_length: 5, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 27.3623
+valid auc: 0.6842
+node dim: 21,	num_walks: 9,	walk_length: 6, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 33.5729
+valid auc: 0.6830
+node dim: 21,	num_walks: 10,	walk_length: 4, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 25.5303
+valid auc: 0.6799
+node dim: 21,	num_walks: 10,	walk_length: 5, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 31.5765
+valid auc: 0.6836
+node dim: 21,	num_walks: 10,	walk_length: 6, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 35.9676
+valid auc: 0.6820
+node dim: 21,	num_walks: 11,	walk_length: 4, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 29.5131
+valid auc: 0.6812
+node dim: 21,	num_walks: 11,	walk_length: 5, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 33.7154
+valid auc: 0.6854
+node dim: 21,	num_walks: 11,	walk_length: 6, 	p: 0.70, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 37.0374
+valid auc: 0.6840
+node dim: 21,	num_walks: 8,	walk_length: 4, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 19.5480
+valid auc: 0.6749
+node dim: 21,	num_walks: 8,	walk_length: 5, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 24.7346
+valid auc: 0.6905
+node dim: 21,	num_walks: 8,	walk_length: 6, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 28.4501
+valid auc: 0.6791
+node dim: 21,	num_walks: 9,	walk_length: 4, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 22.0408
+valid auc: 0.6829
+node dim: 21,	num_walks: 9,	walk_length: 5, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 26.7928
+valid auc: 0.6842
+node dim: 21,	num_walks: 9,	walk_length: 6, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 31.8176
+valid auc: 0.6796
+node dim: 21,	num_walks: 10,	walk_length: 4, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 24.1488
+valid auc: 0.6807
+node dim: 21,	num_walks: 10,	walk_length: 5, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 30.0979
+valid auc: 0.6836
+node dim: 21,	num_walks: 10,	walk_length: 6, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 34.5727
+valid auc: 0.6795
+node dim: 21,	num_walks: 11,	walk_length: 4, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 26.6390
+valid auc: 0.6838
+node dim: 21,	num_walks: 11,	walk_length: 5, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 32.5524
+valid auc: 0.6886
+node dim: 21,	num_walks: 11,	walk_length: 6, 	p: 0.70, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 37.6124
+valid auc: 0.6802
+node dim: 21,	num_walks: 8,	walk_length: 4, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 19.6521
+valid auc: 0.6752
+node dim: 21,	num_walks: 8,	walk_length: 5, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 24.0744
+valid auc: 0.6882
+node dim: 21,	num_walks: 8,	walk_length: 6, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 28.3311
+valid auc: 0.6813
+node dim: 21,	num_walks: 9,	walk_length: 4, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 21.9972
+valid auc: 0.6821
+node dim: 21,	num_walks: 9,	walk_length: 5, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 27.2955
+valid auc: 0.6877
+node dim: 21,	num_walks: 9,	walk_length: 6, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 31.5079
+valid auc: 0.6821
+node dim: 21,	num_walks: 10,	walk_length: 4, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 24.3605
+valid auc: 0.6809
+node dim: 21,	num_walks: 10,	walk_length: 5, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 29.4947
+valid auc: 0.6842
+node dim: 21,	num_walks: 10,	walk_length: 6, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 35.2239
+valid auc: 0.6805
+node dim: 21,	num_walks: 11,	walk_length: 4, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 28.4396
+valid auc: 0.6831
+node dim: 21,	num_walks: 11,	walk_length: 5, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 34.0298
+valid auc: 0.6840
+node dim: 21,	num_walks: 11,	walk_length: 6, 	p: 0.90, 	q: 0.50	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 42.3663
+valid auc: 0.6820
+node dim: 21,	num_walks: 8,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 29.2405
+valid auc: 0.6739
+node dim: 21,	num_walks: 8,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 26.1687
+valid auc: 0.6913
+node dim: 21,	num_walks: 8,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 28.7246
+valid auc: 0.6805
+node dim: 21,	num_walks: 9,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 22.1367
+valid auc: 0.6811
+node dim: 21,	num_walks: 9,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 27.1527
+valid auc: 0.6851
+node dim: 21,	num_walks: 9,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 32.4789
+valid auc: 0.6791
+node dim: 21,	num_walks: 10,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 24.9017
+valid auc: 0.6755
+node dim: 21,	num_walks: 10,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 30.6743
+valid auc: 0.6820
+node dim: 21,	num_walks: 10,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 35.0873
+valid auc: 0.6821
+node dim: 21,	num_walks: 11,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 27.6457
+valid auc: 0.6875
+node dim: 21,	num_walks: 11,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 32.7143
+valid auc: 0.6828
+node dim: 21,	num_walks: 11,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 38.6471
+valid auc: 0.6859
+node dim: 21,	num_walks: 8,	walk_length: 4, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 4.0000	training time: 19.5452
+valid auc: 0.6782
+node dim: 21,	num_walks: 8,	walk_length: 5, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 5.0000	training time: 24.8775
+valid auc: 0.6866
+node dim: 21,	num_walks: 8,	walk_length: 6, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 582360	average walk length: 6.0000	training time: 29.0569
+valid auc: 0.6784
+node dim: 21,	num_walks: 9,	walk_length: 4, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 4.0000	training time: 22.8341
+valid auc: 0.6797
+node dim: 21,	num_walks: 9,	walk_length: 5, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 5.0000	training time: 27.6474
+valid auc: 0.6874
+node dim: 21,	num_walks: 9,	walk_length: 6, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 655155	average walk length: 6.0000	training time: 33.6940
+valid auc: 0.6803
+node dim: 21,	num_walks: 10,	walk_length: 4, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 4.0000	training time: 27.0910
+valid auc: 0.6837
+node dim: 21,	num_walks: 10,	walk_length: 5, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 5.0000	training time: 30.9678
+valid auc: 0.6830
+node dim: 21,	num_walks: 10,	walk_length: 6, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 727950	average walk length: 6.0000	training time: 36.5938
+valid auc: 0.6821
+node dim: 21,	num_walks: 11,	walk_length: 4, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 4.0000	training time: 28.5221
+valid auc: 0.6825
+node dim: 21,	num_walks: 11,	walk_length: 5, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 5.0000	training time: 34.6762
+valid auc: 0.6819
+node dim: 21,	num_walks: 11,	walk_length: 6, 	p: 0.90, 	q: 0.90	building a DeepWalk model...	number of walks: 800745	average walk length: 6.0000	training time: 39.8478
+valid auc: 0.6824
+best_deepwalk: 
+node dim: 21,	num_walks: 8,	walk_length: 5, 	p: 0.90, 	q: 0.70	auc: 0.6913

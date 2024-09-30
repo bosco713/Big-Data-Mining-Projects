@@ -1,0 +1,111 @@
+node dim: 27,	num_walks: 8,	walk_length: 4, 	p: 0.85, 	q: 0.65	building a node2vec model...	number of walks: 582360	average walk length: 4.0000	training time: 21.3940
+valid auc: 0.7058
+node dim: 27,	num_walks: 8,	walk_length: 5, 	p: 0.85, 	q: 0.65	building a node2vec model...	number of walks: 582360	average walk length: 5.0000	training time: 26.4069
+valid auc: 0.7197
+node dim: 27,	num_walks: 8,	walk_length: 6, 	p: 0.85, 	q: 0.65	building a node2vec model...	number of walks: 582360	average walk length: 6.0000	training time: 30.3639
+valid auc: 0.7179
+node dim: 27,	num_walks: 9,	walk_length: 4, 	p: 0.85, 	q: 0.65	building a node2vec model...	number of walks: 655155	average walk length: 4.0000	training time: 23.5257
+valid auc: 0.7084
+node dim: 27,	num_walks: 9,	walk_length: 5, 	p: 0.85, 	q: 0.65	building a node2vec model...	number of walks: 655155	average walk length: 5.0000	training time: 29.5986
+valid auc: 0.7157
+node dim: 27,	num_walks: 9,	walk_length: 6, 	p: 0.85, 	q: 0.65	building a node2vec model...	number of walks: 655155	average walk length: 6.0000	training time: 33.4218
+valid auc: 0.7201
+node dim: 27,	num_walks: 10,	walk_length: 4, 	p: 0.85, 	q: 0.65	building a node2vec model...	number of walks: 727950	average walk length: 4.0000	training time: 26.0424
+valid auc: 0.7127
+node dim: 27,	num_walks: 10,	walk_length: 5, 	p: 0.85, 	q: 0.65	building a node2vec model...	number of walks: 727950	average walk length: 5.0000	training time: 32.7438
+valid auc: 0.7171
+node dim: 27,	num_walks: 10,	walk_length: 6, 	p: 0.85, 	q: 0.65	building a node2vec model...	number of walks: 727950	average walk length: 6.0000	training time: 37.4752
+valid auc: 0.7189
+node dim: 27,	num_walks: 8,	walk_length: 4, 	p: 0.85, 	q: 0.70	building a node2vec model...	number of walks: 582360	average walk length: 4.0000	training time: 20.5625
+valid auc: 0.7087
+node dim: 27,	num_walks: 8,	walk_length: 5, 	p: 0.85, 	q: 0.70	building a node2vec model...	number of walks: 582360	average walk length: 5.0000	training time: 26.5246
+valid auc: 0.7208
+node dim: 27,	num_walks: 8,	walk_length: 6, 	p: 0.85, 	q: 0.70	building a node2vec model...	number of walks: 582360	average walk length: 6.0000	training time: 30.6816
+valid auc: 0.7178
+node dim: 27,	num_walks: 9,	walk_length: 4, 	p: 0.85, 	q: 0.70	building a node2vec model...	number of walks: 655155	average walk length: 4.0000	training time: 23.6391
+valid auc: 0.7081
+node dim: 27,	num_walks: 9,	walk_length: 5, 	p: 0.85, 	q: 0.70	building a node2vec model...	number of walks: 655155	average walk length: 5.0000	training time: 29.1875
+valid auc: 0.7165
+node dim: 27,	num_walks: 9,	walk_length: 6, 	p: 0.85, 	q: 0.70	building a node2vec model...	number of walks: 655155	average walk length: 6.0000	training time: 33.9987
+valid auc: 0.7235
+node dim: 27,	num_walks: 10,	walk_length: 4, 	p: 0.85, 	q: 0.70	building a node2vec model...	number of walks: 727950	average walk length: 4.0000	training time: 25.9917
+valid auc: 0.7118
+node dim: 27,	num_walks: 10,	walk_length: 5, 	p: 0.85, 	q: 0.70	building a node2vec model...	number of walks: 727950	average walk length: 5.0000	training time: 31.8573
+valid auc: 0.7209
+node dim: 27,	num_walks: 10,	walk_length: 6, 	p: 0.85, 	q: 0.70	building a node2vec model...	number of walks: 727950	average walk length: 6.0000	training time: 37.2533
+valid auc: 0.7151
+node dim: 27,	num_walks: 8,	walk_length: 4, 	p: 0.85, 	q: 0.75	building a node2vec model...	number of walks: 582360	average walk length: 4.0000	training time: 20.9890
+valid auc: 0.6977
+node dim: 27,	num_walks: 8,	walk_length: 5, 	p: 0.85, 	q: 0.75	building a node2vec model...	number of walks: 582360	average walk length: 5.0000	training time: 26.3096
+valid auc: 0.7169
+node dim: 27,	num_walks: 8,	walk_length: 6, 	p: 0.85, 	q: 0.75	building a node2vec model...	number of walks: 582360	average walk length: 6.0000	training time: 31.2541
+valid auc: 0.7153
+node dim: 27,	num_walks: 9,	walk_length: 4, 	p: 0.85, 	q: 0.75	building a node2vec model...	number of walks: 655155	average walk length: 4.0000	training time: 24.1003
+valid auc: 0.7092
+node dim: 27,	num_walks: 9,	walk_length: 5, 	p: 0.85, 	q: 0.75	building a node2vec model...	number of walks: 655155	average walk length: 5.0000	training time: 29.6946
+valid auc: 0.7190
+node dim: 27,	num_walks: 9,	walk_length: 6, 	p: 0.85, 	q: 0.75	building a node2vec model...	number of walks: 655155	average walk length: 6.0000	training time: 34.6750
+valid auc: 0.7176
+node dim: 27,	num_walks: 10,	walk_length: 4, 	p: 0.85, 	q: 0.75	building a node2vec model...	number of walks: 727950	average walk length: 4.0000	training time: 26.7347
+valid auc: 0.7123
+node dim: 27,	num_walks: 10,	walk_length: 5, 	p: 0.85, 	q: 0.75	building a node2vec model...	number of walks: 727950	average walk length: 5.0000	training time: 33.3446
+valid auc: 0.7184
+node dim: 27,	num_walks: 10,	walk_length: 6, 	p: 0.85, 	q: 0.75	building a node2vec model...	number of walks: 727950	average walk length: 6.0000	training time: 38.4298
+valid auc: 0.7175
+node dim: 27,	num_walks: 8,	walk_length: 4, 	p: 0.90, 	q: 0.65	building a node2vec model...	number of walks: 582360	average walk length: 4.0000	training time: 20.8926
+valid auc: 0.7065
+node dim: 27,	num_walks: 8,	walk_length: 5, 	p: 0.90, 	q: 0.65	building a node2vec model...	number of walks: 582360	average walk length: 5.0000	training time: 27.2291
+valid auc: 0.7197
+node dim: 27,	num_walks: 8,	walk_length: 6, 	p: 0.90, 	q: 0.65	building a node2vec model...	number of walks: 582360	average walk length: 6.0000	training time: 31.3547
+valid auc: 0.7206
+node dim: 27,	num_walks: 9,	walk_length: 4, 	p: 0.90, 	q: 0.65	building a node2vec model...	number of walks: 655155	average walk length: 4.0000	training time: 23.5486
+valid auc: 0.7084
+node dim: 27,	num_walks: 9,	walk_length: 5, 	p: 0.90, 	q: 0.65	building a node2vec model...	number of walks: 655155	average walk length: 5.0000	training time: 30.3760
+valid auc: 0.7201
+node dim: 27,	num_walks: 9,	walk_length: 6, 	p: 0.90, 	q: 0.65	building a node2vec model...	number of walks: 655155	average walk length: 6.0000	training time: 34.8921
+valid auc: 0.7126
+node dim: 27,	num_walks: 10,	walk_length: 4, 	p: 0.90, 	q: 0.65	building a node2vec model...	number of walks: 727950	average walk length: 4.0000	training time: 26.4970
+valid auc: 0.7137
+node dim: 27,	num_walks: 10,	walk_length: 5, 	p: 0.90, 	q: 0.65	building a node2vec model...	number of walks: 727950	average walk length: 5.0000	training time: 33.1658
+valid auc: 0.7165
+node dim: 27,	num_walks: 10,	walk_length: 6, 	p: 0.90, 	q: 0.65	building a node2vec model...	number of walks: 727950	average walk length: 6.0000	training time: 37.9925
+valid auc: 0.7127
+node dim: 27,	num_walks: 8,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a node2vec model...	number of walks: 582360	average walk length: 4.0000	training time: 21.4655
+valid auc: 0.7023
+node dim: 27,	num_walks: 8,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a node2vec model...	number of walks: 582360	average walk length: 5.0000	training time: 26.1336
+valid auc: 0.7158
+node dim: 27,	num_walks: 8,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a node2vec model...	number of walks: 582360	average walk length: 6.0000	training time: 31.4967
+valid auc: 0.7190
+node dim: 27,	num_walks: 9,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a node2vec model...	number of walks: 655155	average walk length: 4.0000	training time: 23.9006
+valid auc: 0.7105
+node dim: 27,	num_walks: 9,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a node2vec model...	number of walks: 655155	average walk length: 5.0000	training time: 29.5299
+valid auc: 0.7217
+node dim: 27,	num_walks: 9,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a node2vec model...	number of walks: 655155	average walk length: 6.0000	training time: 34.7947
+valid auc: 0.7137
+node dim: 27,	num_walks: 10,	walk_length: 4, 	p: 0.90, 	q: 0.70	building a node2vec model...	number of walks: 727950	average walk length: 4.0000	training time: 26.5876
+valid auc: 0.7137
+node dim: 27,	num_walks: 10,	walk_length: 5, 	p: 0.90, 	q: 0.70	building a node2vec model...	number of walks: 727950	average walk length: 5.0000	training time: 32.8050
+valid auc: 0.7193
+node dim: 27,	num_walks: 10,	walk_length: 6, 	p: 0.90, 	q: 0.70	building a node2vec model...	number of walks: 727950	average walk length: 6.0000	training time: 37.4715
+valid auc: 0.7245
+node dim: 27,	num_walks: 8,	walk_length: 4, 	p: 0.90, 	q: 0.75	building a node2vec model...	number of walks: 582360	average walk length: 4.0000	training time: 21.4728
+valid auc: 0.7026
+node dim: 27,	num_walks: 8,	walk_length: 5, 	p: 0.90, 	q: 0.75	building a node2vec model...	number of walks: 582360	average walk length: 5.0000	training time: 27.0856
+valid auc: 0.7182
+node dim: 27,	num_walks: 8,	walk_length: 6, 	p: 0.90, 	q: 0.75	building a node2vec model...	number of walks: 582360	average walk length: 6.0000	training time: 30.4777
+valid auc: 0.7186
+node dim: 27,	num_walks: 9,	walk_length: 4, 	p: 0.90, 	q: 0.75	building a node2vec model...	number of walks: 655155	average walk length: 4.0000	training time: 24.0049
+valid auc: 0.7075
+node dim: 27,	num_walks: 9,	walk_length: 5, 	p: 0.90, 	q: 0.75	building a node2vec model...	number of walks: 655155	average walk length: 5.0000	training time: 29.9033
+valid auc: 0.7209
+node dim: 27,	num_walks: 9,	walk_length: 6, 	p: 0.90, 	q: 0.75	building a node2vec model...	number of walks: 655155	average walk length: 6.0000	training time: 34.2974
+valid auc: 0.7206
+node dim: 27,	num_walks: 10,	walk_length: 4, 	p: 0.90, 	q: 0.75	building a node2vec model...	number of walks: 727950	average walk length: 4.0000	training time: 26.2941
+valid auc: 0.7157
+node dim: 27,	num_walks: 10,	walk_length: 5, 	p: 0.90, 	q: 0.75	building a node2vec model...	number of walks: 727950	average walk length: 5.0000	training time: 32.8911
+valid auc: 0.7218
+node dim: 27,	num_walks: 10,	walk_length: 6, 	p: 0.90, 	q: 0.75	building a node2vec model...	number of walks: 727950	average walk length: 6.0000	training time: 38.0361
+valid auc: 0.7184
+node dim: 27,	num_walks: 8,	walk_length: 4, 	p: 0.95, 	q: 0.65	building a node2vec model...	number of walks: 582360	average walk length: 4.0000	training time: 22.4292
+valid auc: 0.7007
+node dim: 27,	num_walks: 8,	walk_length: 5, 	p: 0.95, 	q: 0.65	building a node2vec model...	number of walks: 582360	average walk length: 5.0000	
