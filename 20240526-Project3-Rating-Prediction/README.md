@@ -1,4 +1,5 @@
 # Rating Prediction Project
+- COMP4332 Project 3
 
 ## Table of Contents
 - [Overview](#overview)
