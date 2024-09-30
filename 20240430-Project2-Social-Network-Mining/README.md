@@ -1,4 +1,5 @@
 # Social Network Analysis Project
+- COMP4332 Project 2
 
 # Table of Contents
 - [Project Overview](#project-overview)
