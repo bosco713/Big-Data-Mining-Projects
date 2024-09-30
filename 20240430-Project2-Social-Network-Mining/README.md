@@ -33,19 +33,29 @@ We implemented two primary embedding models:
 ## Parameter Tuning
 The final model chosen is node2vec.
 Optimal values for hyperparameters are:
-- node_dim: 20
-- num_walks: 9
-- walk_length: 6
+
+| Hyperparameters   | Values    |
+| ----------------- | --------- |
+| node_dim          | 20        |
+| num_walks         | 9         |
+| walk_length       | 6         |
+
 ### AUC Score Analysis
 As node_dim increased, AUC scores improved significantly.
 The optimal combination found was:
-- (node_dim, num_walks, walk_length) = (30, 9, 6)
-- Parameters p and q set to 0.75 and 0.85, respectively.
+
+| Hyperparameters                       | Values        |
+| ------------------------------------- | ------------- |
+| (node_dim, num_walks, walk_length)    | (30, 9, 6)    |
+| (p, q)                                | (0.75, 0.85)  |
 
 ## Further Enhancements
 We introduced a subsampling method to refine our embeddings. By iterating over random walks and gathering nodes spaced apart by a fixed number of steps, we emphasize longer-range interactions.
 - Subsampling Parameters:
-    num_skips: 5
+
+    | Hyperparameters   | Values    |
+    | ----------------- | --------- |
+    | num_skips         | 5         |
     This enhancement resulted in a validation AUC of 0.8550, surpassing the standard node2vec model.
 
 ## Evaluation
