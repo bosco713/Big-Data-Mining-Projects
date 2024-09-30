@@ -1,4 +1,5 @@
 # Sentiment Analysis Project
+- COMP4332 Project 1
 
 ## Table of Contents
 - [Overview](#overview)
